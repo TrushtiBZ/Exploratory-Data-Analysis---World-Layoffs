@@ -5,10 +5,6 @@
 ### Aim
 The objective of this project is to conduct an exploratory data analysis (EDA) on the World Layoffs dataset using SQL queries. This analysis aims to extract meaningful insights and trends related to layoffs globally from 2020 to 2023.
 
-### Tools and Languages
-- **Tool**: MySQL Workbench
-- **Language**: SQL
-
 ### Dataset Description
 The dataset used for this analysis contains information on layoffs across different companies and industries from 2020 to 2023. Key fields include:
 - **Company**: Name of the company
